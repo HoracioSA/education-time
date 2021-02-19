@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/education-time/static/css/main.05095d14.chunk.css",
+    "main.js": "/education-time/static/js/main.442fe8f5.chunk.js",
+    "main.js.map": "/education-time/static/js/main.442fe8f5.chunk.js.map",
+    "runtime-main.js": "/education-time/static/js/runtime-main.81b7a4ae.js",
+    "runtime-main.js.map": "/education-time/static/js/runtime-main.81b7a4ae.js.map",
+    "static/js/2.aec85332.chunk.js": "/education-time/static/js/2.aec85332.chunk.js",
+    "static/js/2.aec85332.chunk.js.map": "/education-time/static/js/2.aec85332.chunk.js.map",
+    "index.html": "/education-time/index.html",
+    "static/css/main.05095d14.chunk.css.map": "/education-time/static/css/main.05095d14.chunk.css.map",
+    "static/js/2.aec85332.chunk.js.LICENSE.txt": "/education-time/static/js/2.aec85332.chunk.js.LICENSE.txt",
+    "static/media/back.7519e694.svg": "/education-time/static/media/back.7519e694.svg",
+    "static/media/give-classes.c4f66599.svg": "/education-time/static/media/give-classes.c4f66599.svg",
+    "static/media/landing.09c35b9f.svg": "/education-time/static/media/landing.09c35b9f.svg",
+    "static/media/logo.378f1127.svg": "/education-time/static/media/logo.378f1127.svg",
+    "static/media/purple-heart.cf1a5ee2.svg": "/education-time/static/media/purple-heart.cf1a5ee2.svg",
+    "static/media/study.6de63dae.svg": "/education-time/static/media/study.6de63dae.svg",
+    "static/media/warning.2eb383a1.svg": "/education-time/static/media/warning.2eb383a1.svg",
+    "static/media/whatsapp.a70fb4ca.svg": "/education-time/static/media/whatsapp.a70fb4ca.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81b7a4ae.js",
+    "static/js/2.aec85332.chunk.js",
+    "static/css/main.05095d14.chunk.css",
+    "static/js/main.442fe8f5.chunk.js"
+  ]
+}
